@@ -3,6 +3,7 @@
 ```
 Turtle-Race
 ├─README.md
+├─Turtle-Display.gif
 ├─main.py
 ├─Turtle.py
 ├─score
