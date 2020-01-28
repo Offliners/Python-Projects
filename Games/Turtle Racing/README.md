@@ -10,7 +10,7 @@ Turtle-Race
 ```
 
 ### Display
-![Display]
+![Display](https://github.com/Offliners/Python-Projects/blob/master/Games/Turtle%20Racing/Turtle-Display.gif)
 
 
 ## Reference
